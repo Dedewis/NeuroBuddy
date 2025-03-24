@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 import React from "react";
 
 function Routine() {
+=======
+import React from "react";                                                                                                                                         function Routine() {
+>>>>>>> ff31f19e8fc94bc3382caafa9338e574f9dd06e7
   const routines = [
     { time: "8:00 AM", task: "Wake Up" },
     { time: "8:30 AM", task: "Breakfast" },
@@ -24,4 +28,8 @@ function Routine() {
   );
 }
 
+<<<<<<< HEAD
 export default Routine;
+=======
+export default Routine;
+>>>>>>> ff31f19e8fc94bc3382caafa9338e574f9dd06e7

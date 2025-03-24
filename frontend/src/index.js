@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
@@ -8,3 +9,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>
 );
+=======
+>>>>>>> ff31f19e8fc94bc3382caafa9338e574f9dd06e7

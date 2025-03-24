@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> ff31f19e8fc94bc3382caafa9338e574f9dd06e7
 import React from "react";
 
 function Footer() {
@@ -9,4 +12,8 @@ function Footer() {
   );
 }
 
+<<<<<<< HEAD
 export default Footer;
+=======
+export default Footer;
+>>>>>>> ff31f19e8fc94bc3382caafa9338e574f9dd06e7
