@@ -1,5 +1,5 @@
 import React from "react";
-<<<<<<< HEAD
+
 import { Link } from "react-router-dom";
 
 export default function Home() {
@@ -27,19 +27,6 @@ export default function Home() {
     </div>
   );
 }
-=======
-function Home() {
-  return (
-    <div className="p-6">
-      <h2 className="text-xl font-semibold mb-4">Welcome to NeuroBuddy</h2>
-      <p className="text-base">
-        Empowering neurodiverse individuals, especially those with autism, to live
-        fulfilling and independent lives. Navigate through routines, calming tools, and
-        connect with support—all in one place.
-      </p>
-    </div>
-  );
-}
 
-export default Home;
->>>>>>> ff31f19e8fc94bc3382caafa9338e574f9dd06e7
+
+
