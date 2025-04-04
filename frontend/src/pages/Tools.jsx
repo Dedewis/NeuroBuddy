@@ -1,8 +1,5 @@
 import React from "react";
-<<<<<<< HEAD
 
-=======
->>>>>>> ff31f19e8fc94bc3382caafa9338e574f9dd06e7
 function Tools() {
   return (
     <div className="p-6">
@@ -23,8 +20,6 @@ function Tools() {
   );
 }
 
-<<<<<<< HEAD
+
 export default Tools;
-=======
-export default Tools;
->>>>>>> ff31f19e8fc94bc3382caafa9338e574f9dd06e7
+
